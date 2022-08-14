@@ -11,7 +11,7 @@ function TodoApp() {
         <Title />
         <TodoCategory />
       </StyledTodo>
-    </> 
+    </>
   )
 }
 
