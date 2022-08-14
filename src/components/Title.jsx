@@ -7,12 +7,11 @@ class Title extends Component {
     return(
       <StyledTitle>
         <div>
-          <h1>Wishlist</h1>  
+          <h1>Wishlist</h1> 
         </div> 
       </StyledTitle>
     )
     
-
   }
 
 }

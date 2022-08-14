@@ -3,17 +3,20 @@ import styled from "styled-components";
 export const StyledTodo =styled.div`
 border: 2px solid #000;
 border-radius: 20px;
-background: #eee;
+background: #f2f3f4;
+height: 800px;
+width: 600px;
 
-// position: fixed;
-// top: 50%;
-// left: 50%;
-// -webkit-transform: translate(-50%, -50%);
-// transform: translate(-50%, -50%);
 
-display: flex;
-justify-content: center;
-align-items: center;
+position: fixed;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+
+// display: flex;
+// justify-content: center;
+// align-items: center;
 
 
 
